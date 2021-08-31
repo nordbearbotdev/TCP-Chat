@@ -5,7 +5,7 @@ Creation of a messenger in python is performed using pyqt5 python and has a grap
 Hi, Dear user! I welcome You to decentralized anonymous instant messenger on top of TCP Services.
 
 # For donuts with coffee !
-If you want to buy me a beer (very much appreciated) you can do so via
+If you want to buy me a donuts with a coffee (very much appreciated) you can do so via
 
     Bitcoin: 3EykcK7AXCu7Gk3XmTLsa4mPq7chHcbKb3
     Payeer: P1042089500
