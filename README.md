@@ -4,3 +4,10 @@ Creation of a messenger in python is performed using pyqt5 python and has a grap
 # Latter for users 
 Hi, Dear user! I welcome You to decentralized anonymous instant messenger on top of TCP Services.
 
+# Beer 
+If you want to buy me a beer (very much appreciated) you can do so via
+
+    Bitcoin: 3EykcK7AXCu7Gk3XmTLsa4mPq7chHcbKb3
+    Payeer: P1042089500
+
+Please note that TCP is produced independently from the Tor® anonymity software, I am not related with or sponsored by torproject.org. TCP-Chat is making use of the Tor® client software and the Windows version comes bundled with original Tor binaries but TCP-Chat itself is a completely separate project developed by totally different people, so if you instead want to buy the developers of Tor® from torproject.org a beer (they deserve it even more than me and without their great Tor software my little program would not have been possible) then please consider doing so at the following address:
