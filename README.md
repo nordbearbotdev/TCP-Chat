@@ -11,3 +11,8 @@ If you want to buy me a donuts with a coffee (very much appreciated) you can do 
     Payeer: P1042089500
 
 Please note that TCP is produced independently from the Tor® anonymity software, I am not related with or sponsored by torproject.org. TCP-Chat is making use of the Tor® client software and the Windows version comes bundled with original Tor binaries but TCP-Chat itself is a completely separate project developed by totally different people, so if you instead want to buy the developers of Tor® from torproject.org a beer (they deserve it even more than me and without their great Tor software my little program would not have been possible) then please consider doing so at the following address:
+
+# 
+If you want to test new versions of TorChat, send me a simple e-mail to nordbearbot.
+
+I will send you betas or golden master versions some days before official releases, and if you have free time and motivation, you can peacefully test them and tell me if you saw problematic stuff. It's a best effort testing, so no pressure.
