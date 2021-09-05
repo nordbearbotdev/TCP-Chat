@@ -1,4 +1,5 @@
 #Welcome ^_^
+#This program create by nordbearbot.dev. His have a GHU license
 import os
 import sys
 import rsa
