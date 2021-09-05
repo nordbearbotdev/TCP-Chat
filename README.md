@@ -31,4 +31,4 @@ I will send you betas or golden master versions some days before official releas
 
 
 
-https://github.com/Zproger/ZMessenger/blob/main/icons/1.png
+
